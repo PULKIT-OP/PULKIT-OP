@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am PULKIT. 3rd Year Undergrad student in Netaji Subhas University of Technology, Delhi. 
+I am PULKIT. 4rd Year Undergrad student in Netaji Subhas University of Technology, Delhi. 
 Persuing Electrical Engineering.
 
 <a href="https://labs.nmgdigital.com/">
